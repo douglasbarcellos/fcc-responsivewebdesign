@@ -1,4 +1,6 @@
 # fcc-responsivewebdesign
 Responsive Web Design - FreeCodeCamp
 
-HTML, CSS, Visual Design, Accessibility, and more.
+HTML5, CSS3, Visual Design, Accessibility, CSS Flexbox, CSS Grid and more.
+
+### [Certificate](https://www.freecodecamp.org/certification/douglasbarcellos/responsive-web-design)
